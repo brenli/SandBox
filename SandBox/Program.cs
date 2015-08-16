@@ -10,6 +10,7 @@ namespace SandBox
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Brenli");
         }
     }
 }
