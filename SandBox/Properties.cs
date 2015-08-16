@@ -22,7 +22,7 @@ namespace SandBox
         {
             get
             {
-                return ip;
+                return ip.Trim();
             }
             set
             {
