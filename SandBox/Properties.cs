@@ -20,8 +20,14 @@ namespace SandBox
         private string ip;
         public string IP
         {
-            get { return ip; }
-            set { ip = value; }
+            get
+            {
+                return ip;
+            }
+            set
+            {
+                ip = value;
+            }
         }
         // 2. FilePath
         // 3. a. X
