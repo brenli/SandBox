@@ -17,6 +17,12 @@ namespace SandBox
     class Properties
     {
         // 1. IP
+        private string ip;
+        public string IP
+        {
+            get { return ip; }
+            set { ip = value; }
+        }
         // 2. FilePath
         // 3. a. X
         // 3. b. Y
