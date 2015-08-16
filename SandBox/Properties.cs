@@ -22,11 +22,11 @@ namespace SandBox
         {
             get
             {
-                return ip;
+                return ip.Trim();
             }
             set
             {
-                ip = value;
+                ip = value.Trim();
             }
         }
         // 2. FilePath
