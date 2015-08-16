@@ -30,8 +30,12 @@ namespace SandBox
             }
         }
         // 2. FilePath
+
         // 3. a. X
+
         // 3. b. Y
+
         // 4. GetRandomNumber
+        public int GetRandomNumber { get; set; }
     }
 }
