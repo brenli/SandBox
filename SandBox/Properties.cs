@@ -26,7 +26,7 @@ namespace SandBox
             }
             set
             {
-                ip = value;
+                ip = value.Trim();
             }
         }
         // 2. FilePath
